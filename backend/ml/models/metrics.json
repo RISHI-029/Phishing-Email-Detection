@@ -1,0 +1,206 @@
+{
+  "best_model": "Logistic Regression",
+  "selection_metric": "mean 5-fold cross-validation F1",
+  "selected_metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "confusion_matrix": [
+      [
+        7,
+        0
+      ],
+      [
+        0,
+        6
+      ]
+    ]
+  },
+  "all_models": {
+    "Logistic Regression": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "confusion_matrix": [
+        [
+          7,
+          0
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "cross_validation": {
+        "accuracy": {
+          "mean": 0.98,
+          "std": 0.0447
+        },
+        "precision": {
+          "mean": 0.9667,
+          "std": 0.0745
+        },
+        "recall": {
+          "mean": 1.0,
+          "std": 0.0
+        },
+        "f1": {
+          "mean": 0.9818,
+          "std": 0.0407
+        }
+      },
+      "holdout": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "confusion_matrix": [
+          [
+            7,
+            0
+          ],
+          [
+            0,
+            6
+          ]
+        ]
+      }
+    },
+    "Random Forest": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "confusion_matrix": [
+        [
+          7,
+          0
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "cross_validation": {
+        "accuracy": {
+          "mean": 0.96,
+          "std": 0.0894
+        },
+        "precision": {
+          "mean": 1.0,
+          "std": 0.0
+        },
+        "recall": {
+          "mean": 0.92,
+          "std": 0.1789
+        },
+        "f1": {
+          "mean": 0.95,
+          "std": 0.1118
+        }
+      },
+      "holdout": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "confusion_matrix": [
+          [
+            7,
+            0
+          ],
+          [
+            0,
+            6
+          ]
+        ]
+      }
+    },
+    "Linear SVM": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "confusion_matrix": [
+        [
+          7,
+          0
+        ],
+        [
+          0,
+          6
+        ]
+      ],
+      "cross_validation": {
+        "accuracy": {
+          "mean": 0.98,
+          "std": 0.0447
+        },
+        "precision": {
+          "mean": 0.9667,
+          "std": 0.0745
+        },
+        "recall": {
+          "mean": 1.0,
+          "std": 0.0
+        },
+        "f1": {
+          "mean": 0.9818,
+          "std": 0.0407
+        }
+      },
+      "holdout": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "confusion_matrix": [
+          [
+            7,
+            0
+          ],
+          [
+            0,
+            6
+          ]
+        ]
+      }
+    }
+  },
+  "dataset_info": {
+    "total_samples": 62,
+    "train_samples": 49,
+    "test_samples": 13,
+    "class_distribution": {
+      "legitimate": 31,
+      "phishing": 31
+    },
+    "holdout_fraction": 0.2,
+    "random_state": 42,
+    "cv_folds": 5,
+    "dataset_path": "data/dataset.csv"
+  },
+  "hybrid_system_holdout": {
+    "definition": "Hybrid risk score >= 61 is counted as phishing; 0-60 is counted as non-phishing for binary metrics.",
+    "threshold": 61,
+    "samples": 13,
+    "accuracy": 0.5385,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "confusion_matrix": [
+      [
+        7,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "risk_score_mean": 22.0,
+    "note": "Metrics apply only to this held-out dataset and are not a guarantee of real-world performance."
+  }
+}

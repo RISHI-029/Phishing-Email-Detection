@@ -1,0 +1,63 @@
+subject,body,label
+"Team Meeting Scheduled","Hello team, The weekly project sync meeting will take place tomorrow at 10 AM in Conference Room B. Please review the agenda attached.",0
+"URGENT: Verify Your Bank Account Immediately","Dear customer, We detected unusual activity on your account. Click http://verify-secure-bank-login.com/auth immediately to avoid account suspension.",1
+"Project Status Update - Q3","Hi all, Here is the latest progress report for Q3 deliverables. All milestones are on track for release next Friday.",0
+"SECURITY ALERT: Account Suspended!","Action Required! Your account has been suspended due to security violations. Reset your password at http://paypa1-security-verification.com/reset now.",1
+"Invoice #84920 Attached","Please find attached invoice #84920 for your recent order. Thank you for your business.",0
+"Urgent Wire Transfer Request","Hi Finance, Please process an urgent wire transfer of $45,000 to our new supplier account at http://wire-transfer-gateway.net immediately. Confidential.",1
+"Quarterly Financial Review","Good morning team, Attached is the draft financial statement for Q2. Let's discuss during our 2 PM call.",0
+"Action Required: Update Microsoft 365 Password","Your Microsoft 365 password will expire today. Update credentials immediately at http://msoffice365-login-update.com/login",1
+"Dinner plans for Friday","Hey, Are we still meeting for dinner this Friday at 7 PM? Let me know if that time works for you.",0
+"Congratulations! You Won $1,000,000","You have been selected as the grand prize winner! Claim your reward now by providing your credit card details at http://claim-million-dollar-prize.org",1
+"IT Department Maintenance Announcement","Please note that server maintenance is scheduled for Sunday from 2 AM to 4 AM. Services may be briefly unavailable.",0
+"Unusual Sign-in Detected on Google Account","A new device signed into your account from Russia. If this was not you, verify your identity immediately at http://google-account-verify-sec.com",1
+"Weekly Newsletter - Tech Insights","Check out our latest article on modern web development practices, modern React UI patterns, and API security guidelines.",0
+"URGENT: Tax Refund Confirmation Pending","IRS Alert: You have an unclaimed tax refund of $1,420. Click http://irs-tax-refund-claim.gov-fake.com to enter your social security number and claim.",1
+"HR Update: Open Enrollment for Health Benefits","Hello employees, Open enrollment for next year's health coverage begins next Monday. Please review the attached benefits portal guide.",0
+"Your PayPal Account Has Been Restricted","We noticed unauthorized attempts to log into your PayPal account. Re-activate your wallet now at http://paypal-resolution-center-fake.net",1
+"Code Review Feedback on PR #142","Great work on the backend service implementation! I left a few inline comments on the API validation schemas.",0
+"FINAL NOTICE: Domain Name Expiration","Your domain web-hosting package is expiring within 24 hours. Renew immediately at http://domain-registrar-renew-now.com to avoid site shutdown.",1
+"Lunch order tomorrow","Hi guys, I am collecting lunch orders for tomorrow's team workshop. Reply with your dietary preferences by 4 PM.",0
+"Urgent Security Warning: Netflix Membership Cancelled","Payment failed for your Netflix subscription. Update billing details within 12 hours at http://netflix-billing-update-secure.com or membership will end.",1
+"Sprint Retrospective Meeting Notes","Here are the key takeaways and action items from our sprint retrospective meeting today.",0
+"Apple ID Compromised - Confirm Identity","Your Apple ID was used to purchase a $200 gift card from an unknown location. Cancel purchase at http://appleid-security-cancel.com",1
+"Flight Reservation Confirmation #FL-9921","Thank you for booking with Skyways. Your itinerary and e-ticket are attached to this email.",0
+"URGENT: FedEx Package Delivery Failed","We were unable to deliver your parcel #883920. Update delivery address and pay $2.99 fee at http://fedex-tracking-parcel-update.com",1
+"Documentation update request","Could you please update the API documentation file with the new endpoints added in the last commit?",0
+"Your Amazon Account Has Been Locked","Suspicious purchase of PlayStation 5 detected on your account. If you did not authorize this, verify account at http://amazon-account-verify-security.com",1
+"Design Feedback for Landing Page","The new cybersecurity dark UI mockups look fantastic! Just one suggestion regarding button contrast on mobile screens.",0
+"CRITICAL: Bank Security Update Needed","Dear valued customer, your online banking session requires mandatory 2FA security update at http://secure-bank-token-auth.com",1
+"Reminder: Submit Expense Reports","Please remember to submit your monthly expense receipts by the end of the day tomorrow.",0
+"HR: Immediate Action Required - Salary Direct Deposit Change","Your payroll direct deposit information has been updated. If you did not request this, click http://hr-payroll-security-check.com immediately.",1
+"Vacation Request Approved","Your PTO request for August 15th to August 20th has been approved by management.",0
+"Steam Wallet Code Claim","Claim your free $50 Steam gift card by completing a quick survey at http://free-steam-codes-claim.org",1
+"Client Proposal Review","Attached is the revised proposal for the prospective enterprise client. Please review before our afternoon strategy call.",0
+"Security Alert: Dropbox File Sharing","Someone shared a confidential PDF document with you. Access file by entering your login details at http://dropbox-secure-file-viewer.com",1
+"System Health Report - All Systems Operational","Daily automated check completed. Uptime: 99.98%. All core microservices are operating normally.",0
+"Urgent Notice: CEO Confidential Request","I am in a board meeting and need you to purchase 5 Apple Gift Cards ($100 each) right now. Email the codes to me directly.",1
+"Office Supply Order Confirmation","Your order for printer paper, markers, and sticky notes has been processed and will arrive in 2 business days.",0
+"Urgent: Security Audit Non-Compliance","Your workstation failed the security compliance check. Run the mandated patch update tool immediately from http://corporate-patch-deploy.net",1
+"Research Paper Discussion","Hi Dr. Smith, I have uploaded the draft research paper on Machine Learning for Cyber Threat Intelligence. Looking forward to your thoughts.",0
+"Account Alert: Facebook Security Notification","Unusual login attempt from Unknown Browser in London. Confirm your account details at http://facebook-login-verify-security.com",1
+"Monthly Newsletter Subscription","Thank you for subscribing to Cybersecurity Weekly. Here is your summary of the top vulnerabilities discovered this week.",0
+"URGENT: DHL Parcel Pending Clearance","Your incoming shipment requires custom duty payment of $4.50. Complete clearance at http://dhl-customs-payment-clearance.com",1
+"All Hands Meeting Slide Deck","Attached are the presentation slides from today's company All-Hands meeting.",0
+"Your Crypto Wallet Has Been Compromised","Metamask Notice: Unauthorized transfer attempt detected. Secure your private seed phrase immediately at http://metamask-security-vault-fix.com",1
+"Software License Renewal","Your annual JetBrains license has been renewed successfully. Invoice details are available in your account portal.",0
+"Urgent: Account Verification Required - LinkedIn","Someone viewed your profile 45 times today. Log in to view who searched for you at http://linkedin-profile-views-secure.com",1
+"Bug Bash Session Tomorrow","Join us tomorrow for a 2-hour bug bash session focused on testing the new dashboard features.",0
+"IMPORTANT: Your Email Password Will Expire","Your email password will expire in 2 hours. Keep your current password by verifying here: http://webmail-password-keep-alive.com",1
+"New Git Pull Request Assigned","You have been assigned to review PR #88: 'Refactor URL heuristics service'.",0
+"Urgent Security Alert: eBay Suspicious Bidding","Your eBay account was used to place a bid of $1,200. Cancel bid immediately at http://ebay-security-bid-cancel.com",1
+"Happy Birthday from HR!","Wishing you a fantastic birthday today! Enjoy your special day.",0
+"URGENT: Covid-19 Relief Fund Disbursement","You are eligible for a $2,500 government assistance payment. Enter bank details at http://gov-covid-relief-payout.org to receive funds.",1
+"Weekly Standup Summary","Notes from today's daily standup: Frontend team is completing scanner UI, Backend team is finishing auth service.",0
+"Critical Vulnerability Alert: Update Browser Immediately","Google Chrome Zero-Day vulnerability detected. Install patch immediately from http://chrome-update-patch-download.com",1
+"Project Architecture Diagram","Attached is the SVG file containing the end-to-end system architecture for the Phishing Email Detection project.",0
+"Urgent: Walmart Order Cancellation Notice","Your order #994019 has been cancelled due to fraudulent activity. Verify billing address at http://walmart-order-verify-sec.com",1
+"Mentorship Program Kickoff","Welcome to the MCA Mentorship Program! Your assigned mentor details and schedule are included in this email.",0
+"ACCOUNT TERMINATION WARNING","Final Warning: Your account will be permanently erased in 24 hours. Prevent deletion by logging in at http://account-deletion-prevention-portal.com",1
+"Library Book Overdue Notice","This is a friendly reminder that your borrowed book 'Introduction to Machine Learning' is due back tomorrow.",0
+"Urgent: Microsoft Security Warning","Unusual activity detected on your Office 365 mailbox. Resolve at http://microsoft-account-remediation.net",1
+"Conference Presentation Submission Accepted","Congratulations! Your paper titled 'Static Feature Extraction for Phishing Analysis' has been accepted for presentation.",0
+"Urgent: Bank of America Security Alert","Your credit card was used for $899 at BestBuy. If unauthorized, dispute charge at http://bofa-card-security-dispute.com",1

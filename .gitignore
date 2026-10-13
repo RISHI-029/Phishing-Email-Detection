@@ -1,0 +1,42 @@
+# Python & Virtual Env
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Machine Learning Artifacts & Models
+backend/ml/models/*.joblib
+!backend/ml/models/.gitkeep
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Node & Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+.npm
+*.log
+
+# Environment & Credentials
+.env
+backend/.env
+frontend/.env
+*.pem
+*.key
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
